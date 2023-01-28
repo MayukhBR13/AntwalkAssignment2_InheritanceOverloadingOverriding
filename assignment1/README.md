@@ -30,3 +30,6 @@ Create a class called Inventory in a package stock. This class has data members 
 
 Create 5 laptops and 10 Accessories  objects. The quantity member must add up accordingly in the individual classes.
 Create an Order class and have customers place orders. If the ordered quantity is available then Invoice should be generated. If the quantity is below lowOrderLevelQuantity then a RequestForMaterial (RFM) must be generated.
+![image](https://user-images.githubusercontent.com/56465452/215283996-008a0df9-00de-49b7-8a66-b59d47f2edb2.png)
+![image](https://user-images.githubusercontent.com/56465452/215284018-044f9bfa-959c-4f08-9fb8-c44fa9bfe94a.png)
+
