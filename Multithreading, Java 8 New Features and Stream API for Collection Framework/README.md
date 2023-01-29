@@ -29,6 +29,5 @@ Complete GUI Calculator using swing
 ![image](https://user-images.githubusercontent.com/56465452/215348338-15793c22-861a-4a54-8712-532526bdb9a6.png)
 ![image](https://user-images.githubusercontent.com/56465452/215348683-2180cb71-fa55-4705-b9aa-e4da1a2f4ecd.png)
 ![image](https://user-images.githubusercontent.com/56465452/215348695-d6bf718a-b018-412c-9298-d0f392e2f31c.png)
-![image](https://user-images.githubusercontent.com/56465452/215348704-9c3847e7-7569-4f35-a80a-a99e71126880.png)
-![image](https://user-images.githubusercontent.com/56465452/215348720-aa8884c6-48b8-4ae7-824e-94df6c091021.png)
-
+![image](https://user-images.githubusercontent.com/56465452/215348842-1cddae99-edc4-4d49-9582-65c8afbb6227.png)
+![image](https://user-images.githubusercontent.com/56465452/215348828-a7fa2815-284b-4f6b-a08b-453ac22a84de.png)
