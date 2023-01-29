@@ -6,9 +6,19 @@ Create an abstract class 'Bank' with an abstract method 'getBalance'. $100, $150
 Interface : 
 
 Given an interface AdvancedArithmetic which contains a method signature int divisor_sum(int n). You need to write a class called MyCalculator which implements the interface.
+divisor_sum function just takes an integer as input and return the sum of all its divisors. For example divisors of 6 are 1, 2, 3 and 6, so divisor_sum should return 12. The value of n will be at most 1000.
 ![image](https://user-images.githubusercontent.com/56465452/215066134-114bfd8e-61e2-426c-8217-d92eda097213.png)
 
 
-divisor_sum function just takes an integer as input and return the sum of all its divisors. For example divisors of 6 are 1, 2, 3 and 6, so divisor_sum should return 12. The value of n will be at most 1000.
+
+
+
+
+Exception handling : 
+
+Create a City class that contains the list of the city with its zip code. 
+It contains findCityByZipCode(int zipCode) method. If it doesn’t find city name, then it’ll catch the exception “City not found”.
+Create a user defined Exception for the same.
+add printStackTrace method for the exception details.
 ![image](https://user-images.githubusercontent.com/56465452/215076428-217982d8-4c6f-4e77-872d-695d061fda38.png)
 also an exception in shown in the ss
